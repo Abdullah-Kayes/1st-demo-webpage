@@ -49,6 +49,7 @@ nav a {
 /* header related styles */
 .header{
     background-color: #FFF8F3;
+    background-image: url('../1st-demo-website/images/header_bg.png');
 }
 
 .banner{
